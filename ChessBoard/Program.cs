@@ -1,4 +1,5 @@
 ﻿using System;
+//Author: Mattias Åström NET24
 
 namespace ChessBoard
 {
